@@ -4,7 +4,7 @@
  */
 const site = {
   name: "ኔት",
-  latinName: "Net",
+  latinName: "Nate",
   location: "Matthews, North Carolina",
   lede: "A quiet home for what I’m doing, what I’ve finished, and a resume you can actually read.",
   email: "",
@@ -15,7 +15,7 @@ const site = {
     handle: "@_natorade_",
   },
   about: [
-    "I go by ኔት — Net, if you need the Latin letters. I live in Matthews, North Carolina.",
+    "I go by ኔት — Nate, if you need the Latin letters. I live in Matthews, North Carolina.",
     "This is the short version: a little about me, projects split into current and past, and a resume that prints cleanly. The page is built to load fast, stay readable, and work with a keyboard.",
   ],
   facts: [
