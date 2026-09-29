@@ -58,25 +58,25 @@ const site = {
       tags: ["Utility"],
     },
   ],
-  resumeNote: "Starter resume. Replace these entries with your own history.",
+  resumeNote: "A quick overview of my work history. For more details, print out my full resume.",
   experience: [
     {
-      title: "Independent",
-      org: "Self-directed",
-      location: "Matthews, North Carolina",
+      title: "Technical Solutions Engineer",
+      org: "Epic Systems",
+      location: "Madison, WI",
       start: "2024",
-      end: "Now",
+      end: "2026",
       highlights: [
-        "Build small websites that load quickly and stay readable on a phone.",
-        "Treat accessibility as part of the layout: headings, contrast, keyboard, and a skip link.",
-        "Keep personal tools free of accounts when the browser is enough.",
+        "Diagnosed and resolved complex production issues through root-cause analysis, QA triage, and cross-team troubleshooting—serving as on-site technical lead for new implementations while protecting client trust.",
+        "Partnered with client leadership, end users, and cross-functional teams to gauge sentiment, bridge technical and non-technical stakeholders, and keep the LIS aligned with real workflow needs.",
+        "Used usage reporting and peer benchmarking to surface adoption opportunities; improved documentation, prioritized fixes, and worked with revenue integrity to resolve billing issues and reduce cost.",
       ],
     },
   ],
-  education: [],
+  education: ["Chemistry, B.A. - University of North Carolina at Charlotte"],
   skills: [
-    { label: "Making", items: ["HTML", "CSS", "JavaScript"] },
-    { label: "Care", items: ["Accessibility", "Fast pages", "Clear writing"] },
+    { label: "Technical", items: ["Programming (multi-language)", "System Architecture", "API Integration", "Security"] },
+    { label: "Non-technical", items: ["Communication", "Product & Account Management", "CI/CD"] },
   ],
 };
 
